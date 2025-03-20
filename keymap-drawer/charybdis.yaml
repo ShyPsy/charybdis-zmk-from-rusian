@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: charybdis, layout_name: five_column_transform}
 layers:
   Base:
-  - Q
+  - W
   - W
   - E
   - R
